@@ -1,13 +1,13 @@
-# Tony Suprun — UX/UI Designer & Front-End Developer
+# Tony Suprun — Leading UX/UI Design Agency Fatobject
 
-Welcome to my portfolio. Here you'll find some projects I’ve worked on — from UX/UI designs to no-code or front-end implementations using Webflow, WordPress, and custom HTML/CSS.
+Welcome to my portfolio. Here you'll find some projects I’ve worked on with my team — from UX/UI designs to no-code or front-end implementations using Webflow, WordPress, and custom HTML/CSS.
 
 ---
 
 ## 🧠 About Me
 
-I'm a UX/UI designer who helps SaaS companies, startups, and product teams design functional, conversion-driven digital experiences.  
-While I focus on design, I also build front-end website layouts using no-code tools or HTML/CSS.
+I'm leading a UX/UI team who helps SaaS companies, startups, and product teams design functional, conversion-driven digital experiences.  
+While we focus on design, we also build front-end website layouts using no-code tools or HTML/CSS.
 
 📍 Based in Europe time zone | 🛠️ Working remotely with clients worldwide
 
